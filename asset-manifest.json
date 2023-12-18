@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eTextUtility/static/css/main.dc4d6ff2.css",
-    "main.js": "/eTextUtility/static/js/main.92ee1a32.js",
-    "static/js/787.6bed028f.chunk.js": "/eTextUtility/static/js/787.6bed028f.chunk.js",
-    "static/media/loading.gif": "/eTextUtility/static/media/loading.29181c59a23df5c07450.gif",
-    "index.html": "/eTextUtility/index.html",
-    "main.dc4d6ff2.css.map": "/eTextUtility/static/css/main.dc4d6ff2.css.map",
-    "main.92ee1a32.js.map": "/eTextUtility/static/js/main.92ee1a32.js.map",
-    "787.6bed028f.chunk.js.map": "/eTextUtility/static/js/787.6bed028f.chunk.js.map"
+    "main.css": "/TextUtility/static/css/main.dc4d6ff2.css",
+    "main.js": "/TextUtility/static/js/main.26b0dbe7.js",
+    "static/js/787.6bed028f.chunk.js": "/TextUtility/static/js/787.6bed028f.chunk.js",
+    "static/media/loading.gif": "/TextUtility/static/media/loading.29181c59a23df5c07450.gif",
+    "index.html": "/TextUtility/index.html",
+    "main.dc4d6ff2.css.map": "/TextUtility/static/css/main.dc4d6ff2.css.map",
+    "main.26b0dbe7.js.map": "/TextUtility/static/js/main.26b0dbe7.js.map",
+    "787.6bed028f.chunk.js.map": "/TextUtility/static/js/787.6bed028f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.92ee1a32.js"
+    "static/js/main.26b0dbe7.js"
   ]
 }
