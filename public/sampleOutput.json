@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Tesla recalls nearly all vehicles on US roads over lack of Autopilot safeguards - Reuters",
+            "description": "Tesla <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> is recalling over 2 million vehicles in the U.S. to install new safeguards in its Autopilot advanced driver-assistance system, after a federal safety regulator cited…",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-update-software-autopilot-control-issue-2-mln-vehicles-nhtsa-2023-12-13/",
+            "urlToImage": "https://www.reuters.com/resizer/y5wV60gsTGvy9ccCUXtUBmhEpc4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D57PMMI7UBK7RMWTUJQJZZHNG4.jpg",
+            "publishedAt": "2023-12-13T20:31:01Z",
+            "content": "WASHINGTON, Dec 13 (Reuters) - Tesla (TSLA.O) is recalling over 2 million vehicles in the U.S. to install new safeguards in its Autopilot advanced driver-assistance system, after a federal safety reg… [+5374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WXII12 Winston-Salem"
+            },
+            "author": "Carrie Hodgin",
+            "title": "When is the best time to view the meteor shower? Everything to know about the Geminids meteor shower - WXII12 Winston-Salem",
+            "description": "METEOR SHOWER | The Geminids meteor shower peaks during mid-December and is considered to be one of the best and most reliable annual meteor showers.",
+            "url": "https://www.wxii12.com/article/what-time-is-the-meteor-shower/46119256",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-894012038-2-65778bb0b5a1c.jpg?crop=1.00xw:0.848xh;0,0.0637xh&resize=1200:*",
+            "publishedAt": "2023-12-13T20:27:00Z",
+            "content": "Editor's Note: Video features meteor captured on dashcam in Feb. 2023 \r\nThe Geminids meteor shower will soon peak, but will we see it in North Carolina or Virginia? \r\nGeminids Meteor Shower \r\nEach ye… [+2638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Federalreserve.gov"
+            },
+            "author": null,
+            "title": "Federal Reserve issues FOMC statement - Federal Reserve",
+            "description": "Recent indicators suggest that growth of economic activity has slowed from its strong pace in the third quarter. Job gains have moderated since earlier in the",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+            "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+            "publishedAt": "2023-12-13T19:02:31Z",
+            "content": "Recent indicators suggest that growth of economic activity has slowed from its strong pace in the third quarter. Job gains have moderated since earlier in the year but remain strong, and the unemploy… [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "NFL Fantasy 2023 Start 'Em, Sit 'Em: Quarterbacks for Week 15 - NFL.com",
+            "description": "Which red-hot QB draws one of the best possible matchups in fantasy? And what do we do with Jared Goff, who's back at home ... but facing a much-improved defense? Check out all of Michael F. Florio's QB starts and sits for Week 15 in fantasy football.",
+            "url": "https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-quarterbacks-for-week-15",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/nns712vulcvwzrh5ma9m",
+            "publishedAt": "2023-12-13T18:55:00Z",
+            "content": "You have lineup questions, we have lineup answers -- at least we hope so. Start 'Em, Sit 'Em is here to help fantasy managers make difficult roster decisions. And you know what is a good move? Starti… [+287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Cheyenne Roundtree",
+            "title": "Jonathan Majors Scolds Girlfriend In Audio Recording: ‘I Am a Great Man’ - Rolling Stone",
+            "description": "A trove of evidence in Jonathan Majors' domestic violence trial was released, including the actor scolding his girlfriend & saying he's a \"great man\"",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jonathan-majors-scolds-girlfriend-trial-1234924870/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/12/jonathan-majors-trial-evidence.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-12-13T18:49:44Z",
+            "content": "The judge inJonathan Majors’ domestic violence trial has permitted the release of a trove of evidence from the case, including voice recordings of Majors chastising his ex-girlfriend, video of Majors… [+9285 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Eight years of conservative rule in Poland ends as Donald Tusk becomes prime minister - The Associated Press",
+            "description": "The new Polish Prime Minister Donald Tusk has been sworn in by the president in a ceremony where each of his ministers was also taking the oath of office. The swearing-in ceremony of the pro-European Union government on Wednesday morning marks the final step …",
+            "url": "https://apnews.com/article/poland-prime-minister-tusk-government-warsaw-8fd0ac25be8fee9f51ece920f493dc1f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4ceeca3/2147483647/strip/true/crop/4272x2403+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2Fc1%2F821fb470285997a52ad5541a15ef%2Fb0a44c5979fe4c09b7511231ceaec644",
+            "publishedAt": "2023-12-13T18:42:00Z",
+            "content": "WARSAW, Poland (AP) The new Polish Prime Minister Donald Tusk was sworn in by the president on Wednesday morning in a ceremony where each of his ministers was also taking the oath of office.\r\nThe swe… [+1163 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Carma Hassan, Asher Moskowitz, Holly Yan",
+            "title": "7 students ate gummy bears from a baggie that tested positive for fentanyl and fell sick. Now 2 people have been arrested - CNN",
+            "description": "Two people have been charged in connection with the case of seven Virginia elementary students who fell ill after eating gummy bears from a bag that later tested positive for fentanyl, the Amherst County Sheriff’s Office said Tuesday.",
+            "url": "https://www.cnn.com/2023/12/13/us/virginia-elementary-students-ingest-fentanyl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231213114929-clifford-dugan-nicole-sanders-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T18:30:00Z",
+            "content": "Two people have been arrested and charged after seven Virginia elementary students ate gummy bears from a plastic baggie that later tested positive for the potentially deadly synthetic opioid fentany… [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Taylor Romine",
+            "title": "Andre Braugher, star of ‘Brooklyn Nine-Nine’ and ‘Homicide: Life On The Street,’ dies at age 61 - CNN",
+            "description": "Actor Andre Braugher died at 61-years-old Monday due to a brief illness, his publicist Jennifer Allen told CNN.",
+            "url": "https://www.cnn.com/2023/12/12/entertainment/andre-braugher-obit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231212211456-02-andrew-braugher-121223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T18:24:00Z",
+            "content": "Andre Braugher, the intense actor who won an Emmy for Homicide: Life on the Street and demonstrated his range in the comedy series Brooklyn Nine-Nine, died at age 61 Monday due to a brief illness, hi… [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "NASA rover unravels history of lake on Mars that grew up to 22 miles wide, 100 feet deep - CBS News",
+            "description": "Perseverance, which landed on Mars​​ in 2021, has been exploring the planet for signs of ancient life.",
+            "url": "https://www.cbsnews.com/news/nasa-rover-history-lake-mars-water-jezero-crater/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/13/7efe7f31-a4a9-4f91-8935-e1768801f6a3/thumbnail/1200x630/f89e1218a431111da0d4f91f0dfb8cf9/screen-shot-2023-12-13-at-12-05-54-pm.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2023-12-13T17:53:00Z",
+            "content": "NASA's Perseverance rover has learned new data about a major crater on Mars, teaching researchers and astronomers about how the structure was formed and when water was present on the planet. \r\nPersev… [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Bill Belichick landing spots: Potential suitors for legendary Patriots head coach if New England era ends - CBS Sports",
+            "description": "Predicting Belichick's next chapter if he parts ways with the Patriots",
+            "url": "https://www.cbssports.com/nfl/news/bill-belichick-landing-spots-potential-suitors-for-legendary-patriots-head-coach-if-new-england-era-ends/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/11/27/5f5d0a23-3f85-4aad-b1f1-dc4a13f0dde7/thumbnail/1200x675/e985d9df5e26090955bb44e65181b869/getty-bill-belichick-patriots.jpg",
+            "publishedAt": "2023-12-13T17:51:00Z",
+            "content": "Let's just take a minute to realize how wild it is that it's come to this. While every star does fade and Bill Belichick was never going to coach forever, it's remarkable to see how quickly the botto… [+7424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Angelina Martin",
+            "title": "Posey offers heartfelt insight on Giants' failed Ohtani pursuit - NBC Sports Bay Area",
+            "description": "The Giants came up short in their Shohei Ohtani pursuit, but Buster Posey believes the team did all it could.",
+            "url": "http://www.nbcsportsbayarea.com/mlb/san-francisco-giants/buster-posey-shohei-ohtani-offer-dodgers/1681259/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/12/buster-posey-shohei-ohtani-GettyImages-950097236.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-12-13T17:47:28Z",
+            "content": "The Giants came up short in their attempt to sign Shohei Ohtani, but Buster Posey believes the team's top brass did everything they could in their pursuit of the two-way MLB superstar.\r\nSan Francisco… [+4163 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Michael Stott",
+            "title": "Argentina's left vows resistance as Javier Milei sets out sharp budget cuts - Financial Times",
+            "description": "New government aims to balance budget by end of 2024 after currency devalued as part of ‘shock therapy’",
+            "url": "https://www.ft.com/content/5178b17c-da6a-468c-ad0a-a8683b42c5b2",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F80da0c59-dd88-47d6-b104-6f5e32333048.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-12-13T17:39:07Z",
+            "content": "Argentinas powerful left has vowed to fight austerity measures set out by the new maverick libertarian President Javier Milei after his government pledged to halt new public works, halve government m… [+5548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Israel-Hamas war: Nine of Netanyahu's soldiers killed in Gaza City ambush - Euronews",
+            "description": "Israeli troops are still locked in heavy combat with Hamas fighters in and around Gaza City, more than six weeks after invading the territory's north.",
+            "url": "https://www.euronews.com/2023/12/13/israel-hamas-war-videos-show-israeli-soldiers-acting-maliciously-in-gaza",
+            "urlToImage": "https://static.euronews.com/articles/stories/08/10/69/08/1200x675_cmsv2_7c9459be-d09f-544e-9fc4-774390aec08a-8106908.jpg",
+            "publishedAt": "2023-12-13T17:14:46Z",
+            "content": "Israeli troops are still locked in heavy combat with Hamas fighters in and around Gaza City, more than six weeks after invading the territory's north.\r\nPalestinian militants carried out one of the de… [+9431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hunter Biden defies House GOP subpoena, risking contempt of Congress - CBS News",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=8586bda9s2U",
+            "urlToImage": null,
+            "publishedAt": "2023-12-13T17:08:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Former BP boss Bernard Looney to forfeit up to £32.4mn after 'serious misconduct' - Financial Times",
+            "description": "Oil group says it has ‘dismissed’ ex-chief for failing to disclose past relationships with colleagues",
+            "url": "https://www.ft.com/content/726fae11-bb59-4595-a5e0-846160bde3d7",
+            "urlToImage": null,
+            "publishedAt": "2023-12-13T16:46:20Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert comment… [+30 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Devan Cole, Ariane de Vogue",
+            "title": "Supreme Court to decide whether to restrict abortion drug nationwide - CNN",
+            "description": "The Supreme Court said Wednesday it will consider whether to restrict access to a widely used abortion drug — even in states where the procedure is still allowed.",
+            "url": "https://www.cnn.com/2023/12/13/politics/supreme-court-to-decide-whether-to-restrict-abortion-drug-nationwide/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231212140430-01-anti-abortion-protesters-0421.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-13T16:32:00Z",
+            "content": "The Supreme Court said Wednesday it will consider whether to restrict access to a widely used abortion drug even in states where the procedure is still allowed.\r\nThe case concerns the drug mifepristo… [+7244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Oprah Winfrey Reveals She Uses Weight-Loss Medication: 'I'm Done with the Shaming' - PEOPLE",
+            "description": "The Color Purple co-producer and cultural icon Oprah Winfrey reveals for the first time in PEOPLE's latest cover story that she is taking weight-loss medication as one tool for helping to maintain her health",
+            "url": "https://people.com/oprah-winfrey-reveals-weight-loss-medication-exclusive-8414552",
+            "urlToImage": "https://people.com/thmb/3CfDMeFNKPqXGrESe853HtpuqcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(754x278:756x280)/oprah-winfrey-the-color-purple-premiere-120723-1-34e8c167218c4516a24703e0f1ac13e0.jpg",
+            "publishedAt": "2023-12-13T16:31:55Z",
+            "content": "Oprah Winfrey is no stranger to scrutiny over her weight. For as long as she has been in the public eye, the icons body journey has played out in the media, on magazine covers and on episodes of her … [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aleks Phillips",
+            "title": "Dog Respiratory Illness Maps Show Its Spread to 16 States - Newsweek",
+            "description": "Canines in at least 16 states have experienced the mystery respiratory disease, according to the latest official tally.",
+            "url": "https://www.newsweek.com/dog-respiratory-illness-map-spread-16-1852084",
+            "urlToImage": "https://d.newsweek.com/en/full/2322802/mystery-dog-illness-map-us-states.jpg",
+            "publishedAt": "2023-12-13T16:23:50Z",
+            "content": "Dogs are falling sick with a mystery illness across the United States, with cases being recorded in at least 16 states, according to the latest figures from Louisiana State University's School of Vet… [+3167 chars]"
+        }
+    ]
+}
